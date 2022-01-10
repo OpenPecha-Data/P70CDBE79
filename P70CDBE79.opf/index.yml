@@ -1,0 +1,26 @@
+id: bdcd5a713193403cbd92a5ba895af6f7
+annotation_type: index
+revision: '00001'
+annotations:
+  c35fea1d51134d6eb1fea906e509447d:
+    work_id: Bon1
+    parts:
+      0acb47b3ca9142dab342d2a07eda0c74:
+        work_id: Bon1-1
+        span:
+        - vol: 1
+          start: 0
+          end: 490089
+      f1b9bfe5839245229e4b27d65774dd24:
+        work_id: Bon1-2
+        span:
+        - vol: 2
+          start: 0
+          end: 460038
+    span:
+    - vol: 1
+      start: 0
+      end: 490089
+    - vol: 2
+      start: 0
+      end: 460038
